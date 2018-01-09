@@ -1,8 +1,9 @@
-package com.yk.minilinkedin;
+package com.yk.minilinkedin.util;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
+import com.yk.minilinkedin.R;
 import com.yk.minilinkedin.model.BasicInfo;
 import com.yk.minilinkedin.model.Education;
 import com.yk.minilinkedin.model.Experience;
